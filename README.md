@@ -11,7 +11,7 @@ The 5 actions of interest in the smart TV application are 1)swipe left, 2)swipe 
 The 7 actions of interest in the transition movements application are 1)stand to sit, 2)sit to stand, 3)sit to lie, 4)lie to sit, 5)lie to stand, 6)stand to lie, and 7)stand to fall. 
 
 
-The following paper provides more details on the C-MHAD dataset. 
+The following paper provides more details on the C-MHAD dataset.
 [1] H. Wei, P. Chopada, and N. Kehtarnavaz, "C-MHAD: Continuous Multimodal Human Action Dataset of Simultaneous Video and Inertial Sensing," under review Sensors, 2020.
 
 To detect and recognize actions of interest in continuous actions streams, the following paper provides a solution:  
